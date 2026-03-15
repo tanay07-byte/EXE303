@@ -43,7 +43,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-The app opens at **http://localhost:8501**
+The app opens at **https://exe303-g4jrcgjktkw6aevb8khuer.streamlit.app/**
 
 ---
 
